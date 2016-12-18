@@ -2,11 +2,11 @@
   "scripts": {
     "test": "node test/index.js"
   },
-  "name": "showdown-highlight",
-  "description": "A Showdown extension for highlight the code blocks.",
+  "name": "showdown-emoji",
+  "description": "A Showdown extension for replacing emoji codes with images.",
   "keywords": [
     "showdown",
-    "highlight",
+    "emoji",
     "an",
     "extension",
     "for",
@@ -15,7 +15,7 @@
     "blocks"
   ],
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "lib/index.js",
   "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
   "files": [
@@ -33,19 +33,17 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/IonicaBizau/showdown-highlight.git"
+    "url": "git+ssh://git@github.com/IonicaBizau/showdown-emoji.git"
   },
   "bugs": {
-    "url": "https://github.com/IonicaBizau/showdown-highlight/issues"
+    "url": "https://github.com/IonicaBizau/showdown-emoji/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/showdown-highlight#readme",
+  "homepage": "https://github.com/IonicaBizau/showdown-emoji#readme",
   "dependencies": {
-    "emojer": "^1.0.4",
-    "highlight.js": "^9.7.0",
-    "html-encoder-decoder": "^1.3.2",
-    "showdown": "^1.4.3"
+    "emojer": "^1.0.4"
   },
   "devDependencies": {
     "tester": "^1.3.7"
-  }
+  },
+  "blah": {}
 }
