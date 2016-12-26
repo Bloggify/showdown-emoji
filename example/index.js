@@ -13,4 +13,4 @@ let converter = new showdown.Converter({
 let html = converter.makeHtml("Hello World! :heart:");
 
 console.log(html);
-<p>Hello World! <img src="https://github.global.ssl.fastly.net/images/icons/emoji/heart?v5" alt="" /></p>
+// <p>Hello World! <img src="https://github.global.ssl.fastly.net/images/icons/emoji/heart.png?v5" alt=":heart:" title=":heart:" class="emoji-img emoji"</p>
