@@ -57,6 +57,11 @@ to [set up a recurring donation, via Patreon][patreon]. :rocket:
 
 Thanks! :heart:
 
+## :dizzy: Where is this library used?
+If you are using this library in one of your projects, add it in this list. :sparkles:
+
+
+ - [`bloggify-emoji`](https://github.com/Bloggify/emoji)—Emoji plugin for Bloggify.
 
 ## :scroll: License
 
