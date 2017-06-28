@@ -32,12 +32,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/IonicaBizau/showdown-emoji.git"
+    "url": "git+ssh://git@github.com/Bloggify/showdown-emoji.git"
   },
   "bugs": {
-    "url": "https://github.com/IonicaBizau/showdown-emoji/issues"
+    "url": "https://github.com/Bloggify/showdown-emoji/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/showdown-emoji#readme",
+  "homepage": "https://github.com/Bloggify/showdown-emoji#readme",
   "dependencies": {
     "emojer": "^1.0.4"
   },
