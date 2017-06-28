@@ -61,6 +61,6 @@ Thanks! :sweat_smile:
 
 
 
-[1]: https://github.com/IonicaBizau/showdown-emoji/issues
+[1]: https://github.com/Bloggify/showdown-emoji/issues
 
 [2]: https://github.com/IonicaBizau/code-style
