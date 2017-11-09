@@ -39,9 +39,11 @@
   },
   "homepage": "https://github.com/Bloggify/showdown-emoji#readme",
   "dependencies": {
-    "emojer": "^1.0.4"
+    "emojer": "^1.1.1",
+    "github-api-emojis": "^1.0.1"
   },
   "devDependencies": {
+    "showdown": "^1.8.1",
     "tester": "^1.3.7"
   },
   "blah": {
