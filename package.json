@@ -15,7 +15,7 @@
     "blocks"
   ],
   "license": "MIT",
-  "version": "1.0.5",
+  "version": "2.0.0",
   "main": "lib/index.js",
   "author": "Bloggify <support@bloggify.org> (https://bloggify.org)",
   "files": [
@@ -39,12 +39,12 @@
   },
   "homepage": "https://github.com/Bloggify/showdown-emoji#readme",
   "dependencies": {
-    "emojer": "^1.1.1",
-    "github-api-emojis": "^1.0.1"
+    "emojer": "^1.1.4",
+    "github-api-emojis": "^1.0.2"
   },
   "devDependencies": {
-    "showdown": "^1.8.1",
-    "tester": "^1.3.7"
+    "showdown": "^1.9.1",
+    "tester": "^1.4.4"
   },
   "blah": {
     "description": "This package uses [GitHub Emoji APIs](https://developer.github.com/v3/emojis/) to display the emojis in [Showdown](https://github.com/showdownjs/showdown) HTML outputs. :tada:"
