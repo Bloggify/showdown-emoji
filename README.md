@@ -12,7 +12,11 @@ This package uses [GitHub Emoji APIs](https://developer.github.com/v3/emojis/) t
 ## :cloud: Installation
 
 ```sh
-$ npm i --save showdown-emoji
+# Using npm
+npm install --save showdown-emoji
+
+# Using yarn
+yarn add showdown-emoji
 ```
 
 
@@ -39,6 +43,8 @@ console.log(html);
 
 
 
+
+
 ## :question: Get Help
 
 There are few ways to get help:
@@ -48,16 +54,26 @@ There are few ways to get help:
 
 
 
+
+## :memo: Documentation
+
+
+### `showdownEmoji(emojiDirPath)`
+Replace the :emojis: in the text with images.
+
+#### Params
+
+- **String** `emojiDirPath`: The public path to the emoji directory containing the emoji images.
+
+#### Return
+- **Array** The configuration used by Showdown.
+
+
+
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
 
-## :dizzy: Where is this library used?
-If you are using this library in one of your projects, add it in this list. :sparkles:
-
-
- - [`bloggify-emoji`](https://github.com/Bloggify/emoji) (by Bloggify)—Emoji plugin for Bloggify.
- - [`mdpdf`](https://github.com/bluehatbrit/mdpdf#readme) (by Elliot Blackburn)—Markdown to PDF command line converter
 
 ## :scroll: License
 
