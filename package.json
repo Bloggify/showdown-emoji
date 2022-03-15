@@ -39,12 +39,12 @@
   },
   "homepage": "https://github.com/Bloggify/showdown-emoji#readme",
   "dependencies": {
-    "emojer": "^1.1.4",
-    "github-api-emojis": "^1.0.2"
+    "emojer": "^1.1.5",
+    "github-api-emojis": "^1.0.3"
   },
   "devDependencies": {
-    "showdown": "^1.9.1",
-    "tester": "^1.4.4"
+    "showdown": "^2.0.3",
+    "tester": "^1.4.5"
   },
   "blah": {
     "description": "This package uses [GitHub Emoji APIs](https://developer.github.com/v3/emojis/) to display the emojis in [Showdown](https://github.com/showdownjs/showdown) HTML outputs. :tada:"
